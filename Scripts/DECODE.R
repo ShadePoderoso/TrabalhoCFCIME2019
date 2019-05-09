@@ -1,0 +1,3 @@
+DECODE = function(CodBin) {
+  
+}
